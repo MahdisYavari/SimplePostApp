@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_name">Rubika</string>
+    <string name="please_wait">please wait</string>
+    <string name="action_failed">failed</string>
+    <string name="home">home</string>
+    <string name="post_detail">post detail</string>
+    <string name="comment">comments</string>
+    <string name="liked_by_people">people liked</string>
+    <string name="post_caption">This caption is related to this post</string>
+</resources>

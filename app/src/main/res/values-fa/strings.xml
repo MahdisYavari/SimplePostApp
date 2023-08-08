@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">روبیکا</string>
+    <string name="please_wait">لطفا منتظر بمانید</string>
+    <string name="action_failed">ناموفق</string>
+    <string name="home">خانه</string>
+    <string name="post_detail">جزییات پست</string>
+    <string name="comment">بازخورد</string>
+    <string name="liked_by_people">نفر پسندیده اند</string>
+    <string name="post_caption">این توضیحات مربوط به این پست می باشد</string>
+</resources>
